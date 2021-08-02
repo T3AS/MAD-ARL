@@ -1,4 +1,5 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 MAD-ARL is a multi-agent adversarial testing platform built on top of the CARLA Autonomous Driving simulator and Macad-Gym.
 
 ### Installattion Setup
