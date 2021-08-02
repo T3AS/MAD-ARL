@@ -53,3 +53,7 @@ Run the following commands in sequence for installing rest of the packages to av
 
 `pip install tensorboardX==2.1`
 
+### Instructions
+Soon to be updated here along with the paper.
+
+
