@@ -23,22 +23,31 @@ Run `echo "export CARLA_SERVER=${HOME}/software/CARLA_0.9.4/CarlaUE4.sh" >> ~/.b
 
 Fork/Clone the repository to your workspace:
 `git clone https://github.com/AizazSharif/MAD-ARL.git && cd MAD-ARL`
+
 Create a new conda env named "macad-gym" and install the required packages:
 `conda env create -f conda_env.yml`
+
 Activate the environment:
 `conda activate MAD-ARL`
 
 Run the following commands in sequence for installing rest of the packages to avoid version errors:
 `pip install -e .`
+
 `pip install --upgrade pip`
+
 `pip install -e .` 
 
 `pip install tensorflow==2.1.0`
+
 `pip install tensorflow-gpu==2.1.0`
 
+
 `pip install pip install ray[tune]==0.8.4`
+
 `pip install pip install ray[rllib]==0.8.4`
 
+
 `pip install tf_slim`
+
 `pip install tensorboardX==2.1`
 
