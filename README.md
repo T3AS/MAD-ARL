@@ -32,6 +32,7 @@ Activate the environment:
 `conda activate MAD-ARL`
 
 Run the following commands in sequence for installing rest of the packages to avoid version errors:
+
 `pip install -e .`
 
 `pip install --upgrade pip`
