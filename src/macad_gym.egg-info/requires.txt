@@ -1,0 +1,12 @@
+gym
+carla>=0.9.3
+GPUtil
+pygame
+opencv-python
+networkx
+
+[test]
+tox
+pytest
+pytest-xdist
+tox

@@ -1,0 +1,47 @@
+DEBUG:ray:[ray] Forcing OMP_NUM_THREADS=1 to avoid performance degradation with many workers (issue #6998). You can override this by explicitly setting OMP_NUM_THREADS.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:ray:[ray] Forcing OMP_NUM_THREADS=1 to avoid performance degradation with many workers (issue #6998). You can override this by explicitly setting OMP_NUM_THREADS.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:ray:[ray] Forcing OMP_NUM_THREADS=1 to avoid performance degradation with many workers (issue #6998). You can override this by explicitly setting OMP_NUM_THREADS.
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:h5py._conv:Creating converter from 7 to 5
+DEBUG:h5py._conv:Creating converter from 5 to 7
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
+DEBUG:ray.tune.registry:Detected class for trainable.
