@@ -2,6 +2,9 @@
 
 MAD-ARL is a multi-agent adversarial testing platform built on top of the CARLA Autonomous Driving simulator and Macad-Gym.
 
+ * [Project Page](https://aizazsharif.github.io/MAD-ARL/)
+ * [Paper](https://arxiv.org/pdf/2112.11937.pdf)
+
 ### Installattion Setup
 
 1. Install the system requirements:
